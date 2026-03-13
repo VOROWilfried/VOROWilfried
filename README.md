@@ -30,6 +30,7 @@ Aspiring software developer who believes consistency beats talent — discipline
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-1572B6?style=flat-square&logo=tailwind&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![JS](https://img.shields.io/badge/JS-ED8B00?style=flat-square&logo=js&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-F05032?style=flat-square&logo=react&logoColor=white)
@@ -49,8 +50,8 @@ Aspiring software developer who believes consistency beats talent — discipline
 
 ### Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-@VOROWilfried-181717?style=flat-square&logo=github)]
-[![Email](https://img.shields.io/badge/Email-charlotvoro@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/GitHub-@VOROWilfried-181717?style=flat-square&logo=github)](https://github.com/VOROWilfried)
+[![Email](https://img.shields.io/badge/Email-charlotvoro@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:charlotvoro@gmail.com)
 
 ---
 
