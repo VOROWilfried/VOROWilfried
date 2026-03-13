@@ -1,44 +1,59 @@
-## 👋 Hi, I'm Wilfried
+<div align="center">
 
-🎓 Computer Science student  
-💻 Aspiring Software Developer  
-🚀 Building my future through code
+```
+W I L F R I E D   V O R O
+```
 
----
+**`@VOROWilfried`** · Computer Science student · Building daily
 
-### 👨‍💻 About Me
-- 🎯 Focused on becoming a professional developer
-- 📚 Studying Computer Science (IGGLIA)
-- 🛠 Currently learning and practicing programming every day
-- 🌍 Dreaming big, starting small, staying consistent
+🟢 Open to opportunities
+
+</div>
 
 ---
 
-### 🛠 Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+### About
+
+Computer Science student at **IGGLIA**, building real things every day.
+Aspiring software developer who believes consistency beats talent — discipline, problem-solving, impact.
+
+| | |
+|---|---|
+| 🎓 **School** | IGGLIA — Computer Science |
+| 💻 **Status** | Coding every day |
+| ⭐ **Motto** | Dream big, start small |
+| ⏱ **Mode** | Consistent — no days off |
 
 ---
 
-### 📂 Projects
-- 🔹 **My Portfolio** – Personal website showcasing my journey  
-- 🔹 **Core C Logic** – C programming fundamentals & algorithms  
-- 🔹 **Daily Code** – Daily coding practice and discipline
+### Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JS](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![REACT](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 🔥 Vision
-I believe coding is not just about writing code.  
-It’s about discipline, problem-solving, and creating impact.
+### Vision
+
+> Coding is not just about writing code —  
+> it's about **discipline**, **problem-solving**, and creating **real impact**.  
+> Starting small. Staying consistent. Dreaming big.
 
 ---
 
-### 📫 Contact
-- GitHub: **@VOROWilfried**
-- Email: charlotvoro@gmail.com
+### Contact
 
+[![GitHub](https://img.shields.io/badge/GitHub-@VOROWilfried-181717?style=flat-square&logo=github)]
+[![Email](https://img.shields.io/badge/Email-charlotvoro@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)]
+
+---
+
+<div align="center">
+  <sub>// built with consistency · 2026</sub>
+</div>
