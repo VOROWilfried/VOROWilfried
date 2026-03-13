@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-W I L F R I E D   V O R O
+W I L F R I E D   DC
 ```
 
 **`@VOROWilfried`** · Computer Science student · Building daily
@@ -55,5 +55,5 @@ Aspiring software developer who believes consistency beats talent — discipline
 ---
 
 <div align="center">
-  <sub>// built with consistency · 2026</sub>
+  <sub>//Wilfried DC · 2026</sub>
 </div>
